@@ -1,0 +1,28 @@
+name: The OpenSource Temple
+favicon: null
+layout_spectrum: 0.8082208528649062
+typography_spectrum: 0.49187844060361385
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.11222980753518641
+  lightness: 0.8865846714470536
+  saturation: 0.5335919603239745
+  rhythmicContrast: 0.4384993347339332
+purpose: []
